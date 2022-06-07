@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(179, 177, 177);
+}
+h1{
+    color:aqua;
+    background-color: black;
+    text-align: center;
+}
+p{
+    color: red;
+    background-color: yellow;
+}
+h2+p{
+    color: yellow;
+    background-color: red;
+}
+
+h2{
+    color: blueviolet;
+    background-color: goldenrod;
+    text-align: center;
+}
+ol{
+    color:rgb(20, 14, 90);
+    background-color: aquamarine;
+}
